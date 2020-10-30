@@ -13,6 +13,7 @@ while True:
         break
     else:
         print("Ошибка в ответе")
+print(my_list)
 while len(my_list) > 1:
     index_1 = my_list[0]
     index_2 = my_list[1]
