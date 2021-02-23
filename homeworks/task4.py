@@ -7,7 +7,7 @@
 Программа должна вывести на экран любой символ алфавита от 'a' до 'f' включительно.
 """
 """
-
+https://drive.google.com/file/d/1O3yjcyG3b4ZZSF2XykH9-QNbYtT6VB4I/view?usp=sharing
 """
 import random
 
